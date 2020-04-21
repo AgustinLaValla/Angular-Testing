@@ -1,0 +1,1 @@
+export const obtenerRobots = () :string[] => ['MegaMan', 'Jarvis', 'Robocop'];
